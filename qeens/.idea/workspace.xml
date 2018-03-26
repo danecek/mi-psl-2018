@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f509e2d-a334-4bee-a4f7-e1acdb5f7cf0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/.idea/misc.xml" afterPath="$PROJECT_DIR$/../elems/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/.idea/modules/elems-build.iml" afterPath="$PROJECT_DIR$/../elems/.idea/modules/elems-build.iml" />
+      <change beforePath="$PROJECT_DIR$/../elems/.idea/modules/elems.iml" afterPath="$PROJECT_DIR$/../elems/.idea/modules/elems.iml" />
+      <change beforePath="$PROJECT_DIR$/../elems/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../elems/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$9fbfcebc5b7b82f7275e$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$9fbfcebc5b7b82f7275e.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$9fbfcebc5b7b82f7275e.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$bb681c6514166d893fef$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$bb681c6514166d893fef.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$bb681c6514166d893fef.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$eded0357e69d0ad830cf$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$eded0357e69d0ad830cf.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/config-classes/$eded0357e69d0ad830cf.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elems-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elems-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elems-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elems-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-compile-internal.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-compile.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-optional.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-plugin.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-pom.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-provided.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-runtime.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-scala-tool.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-test-internal.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-test.xml" afterPath="$PROJECT_DIR$/../elems/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elems-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../elems/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/../elems/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../elems/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../elems/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../elems/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0874acc5799b9af9e42d$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0874acc5799b9af9e42d.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0874acc5799b9af9e42d.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$17b36e9cb72ac7e7de51$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$17b36e9cb72ac7e7de51.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$17b36e9cb72ac7e7de51.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$22908cc764c3fb200a5a$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$22908cc764c3fb200a5a.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$22908cc764c3fb200a5a.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$413b14b76299b36ca09b$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$413b14b76299b36ca09b.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$413b14b76299b36ca09b.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a8128d2d526429e7890c$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a8128d2d526429e7890c.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a8128d2d526429e7890c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/default/mi-psl-2018-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/default/mi-psl-2018-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mi-psl-2018-build-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_2_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$367ebe85685da3888cde$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$367ebe85685da3888cde$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$367ebe85685da3888cde.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$367ebe85685da3888cde.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f$$anonfun$$sbtdef$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f$$anonfun$$sbtdef$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$605f55ddf8888aae866f.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6de6f1ea0f0707d39085$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6de6f1ea0f0707d39085$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6de6f1ea0f0707d39085.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6de6f1ea0f0707d39085.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b35c366360e531289777$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b35c366360e531289777$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b35c366360e531289777.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b35c366360e531289777.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/qeens-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/qeens-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/qeens-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/qeens-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-qeens-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/qeens$sources_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/qeens$sources_2.12/1.0/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/qeens$sources_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/qeens$sources_2.12/1.0/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/qeens_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/qeens_2.12/1.0/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/qeens_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/qeens_2.12/1.0/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens$sources_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-qeens_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/../src/main/scala/hello/Test.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/.history" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018$sources/0.1/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018$sources/0.1/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018_2.12/0.1/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/default/mi-psl-2018_2.12/0.1/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018$sources-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/default-mi-psl-2018_2.12-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qeens" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qeens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qeens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="qeens" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="qeens" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1521315331091" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="qeens" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="qeens" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="qeens-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f509e2d-a334-4bee-a4f7-e1acdb5f7cf0" name="Default" comment="" />
+      <created>1493910620059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493910620059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2574103" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14809383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
