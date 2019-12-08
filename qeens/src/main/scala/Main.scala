@@ -1,31 +1,34 @@
-/**
-  * Created by danecek on 5/4/17.
-  */
-object Main {
+import scala.annotation.tailrec
 
+/**
+ * Created by danecek on 5/4/17.
+ */
+object Main {
+  @tailrec
   def isSafe(row: Int, queenRows: List[Int], d: Int): Boolean = {
     queenRows match {
       case Nil => true
       case h :: t => {
-        if ((queenRows contains (row + d)) || (queenRows contains (row - d))) false
-        else isSafe(row, t, d + 1)
+        if (row == h || row == h + d || row == h - d)
+          false
+        else
+          isSafe(row, t, d + 1)
       }
     }
   }
 
+  def queens(n: Int): List[List[Int]] = {
+    def placeQueens(k: Int): List[List[Int]] =
+      if (k == 0) List(List())
+      else for {queenRows <- placeQueens(k - 1)
+                row <- 1 to n
+                if isSafe(row, queenRows, 1)
+                } yield row :: queenRows
 
-def queens(n: Int): List[List[Int]] = {
-  def placeQueens(k: Int): List[List[Int]] =
-    if (k == 0) List(List())
-    else for {queenRows <- placeQueens(k - 1)
-              row <- 1 to n // List.range(1, n + 1)
-              if isSafe(row, queenRows, 0)
-    } yield row :: queenRows
+    placeQueens(n)
+  }
 
-  placeQueens(n)
-}
-
-def main(args: Array[String]): Unit = {
-  println(queens(3))
-}
+  def main(args: Array[String]): Unit = {
+    println(queens(8))
+  }
 }

@@ -5,10 +5,10 @@ import scala.util.Random
 object Main {
 
   def main(args: Array[String]): Unit = {
-    val rnd = for (i <- 0 to 10) yield Random.nextInt(100)
+    val rnd = for (i <- 0 to 20) yield Random.nextInt(100)
     println(mergeSort(rnd))
     println(selSort(rnd))
-    println("Min: " + min(rnd))
+    println(s"Min: ${min(rnd)}")
   }
 
   def mergeSort(x: Seq[Int]): Seq[Int] = {
@@ -21,7 +21,6 @@ object Main {
       else
         right.head +: merge(left, right.tail)
     }
-
     if (x.size == 1) x
     else {
       val (left, right) = x.splitAt(x.size / 2)
@@ -30,13 +29,13 @@ object Main {
   }
 
   def min[T: Ordering](x: Seq[T]): Option[T] = {
-    val i = implicitly[Ordering[T]]
+    val ordering:Ordering[T] = implicitly[Ordering[T]]
     if (x.isEmpty) None
     else {
-      val o: Option[T] = min(x.tail)
-      if (o.isEmpty) Option(x.head)
+      val tailmin: Option[T] = min(x.tail)
+      if (tailmin.isEmpty) Option(x.head)
       else {
-        Option(i.min(x.head, o.get))
+        Option(ordering.min(x.head, tailmin.get))
       }
     }
   }
@@ -50,7 +49,6 @@ object Main {
       xmin +: selSort(y)
     }
   }
-
 
 }
 
